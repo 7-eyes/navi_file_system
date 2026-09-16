@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Filesystem Constellation
+Comment=Native 3D filesystem file manager
+Exec=filesystem-constellation
+Icon=filesystem-constellation
+Terminal=false
+Categories=System;FileManager;
+MimeType=inode/directory;
