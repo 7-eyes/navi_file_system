@@ -1,6 +1,4 @@
-# Filesystem Constellation — Native Linux
-
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="screenshot" src="https://github.com/user-attachments/assets/a5728cc9-b68a-4932-93ac-9d2a137b32ac" /># Filesystem Constellation — Native Linux
 
 A standalone native X11 Linux file manager. **It does not use a browser or web UI.**
 
